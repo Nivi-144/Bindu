@@ -1,4 +1,6 @@
+
 <p align="center">
+
   <img src="./assets/bindu_logo.png" alt="Bindu" width="120" />
 </p>
 
